@@ -1,0 +1,27 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "First App build With Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugikmat/electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "nodejs"
+  ],
+  "author": "Ms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugikmat/electron-app/issues"
+  },
+  "homepage": "https://github.com/ugikmat/electron-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.4"
+  }
+}
